@@ -3,7 +3,7 @@ I'm a BackEnd developer from Taiwan
 
 ### About me
 * I enjoy learning design methodology, languages, framewroks to solve real problem in different fileds.
-* I am also enjoy reading books for gain various knowledge.
+* Give me a cup of tea, I like to enjoy reading books to gain various knowledge anywhere.
 * Wellcome contact to me.
 
 
