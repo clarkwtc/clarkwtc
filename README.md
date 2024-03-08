@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I'm clark chen
+I'm a BackEnd developer from Taiwan
 
-<!--
-**clarkwtc/clarkwtc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+* I enjoy learning design methodology, languages, framewroks to solve real problem in different fileds.
+* I am also enjoy reading books for gain various knowledge.
+* Wellcome contact to me.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skill & Experience
+* Java
+  * Android, Quarkus, Vertx
+* Python
+  * Flask, FastAPI, Tensorflow/Keras 
+* Verilog
+* DDD, TDD, Object Oriented, Design Pattern, RESTfulAPI, Agile
+* Neo4j, Elasticsearch, MySQL
+* Docker, Kubernetes, AWS/Azure cloud
+
+<p align="center">
+<a href="https://github.com/clarkwtc/clarkwtc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarkwtc&layout=compact&theme=buefy&hide_border=true" /></a>
+</p>
