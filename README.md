@@ -10,6 +10,8 @@ I'm a BackEnd developer from Taiwan
 ### Skill & Experience
 * Java
   * Android, Quarkus, Vertx
+* Golang
+  * Gin 
 * Python
   * Flask, FastAPI, Tensorflow/Keras 
 * Verilog
