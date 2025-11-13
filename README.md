@@ -1,10 +1,10 @@
 # Hi there, I'm clark chen
-I'm a BackEnd developer from Taiwan
+I'm a software developer from Taiwan
 
 ### About me
 * I enjoy learning design methodology, languages, frameworks to solve real problems in different fields.
 * Give me a cup of tea, I like to enjoy reading books to gain various knowledge anywhere.
-* Welcome contact with me.
+* Welcome to contact me.
 
 
 ### Skill & Experience
@@ -13,7 +13,7 @@ I'm a BackEnd developer from Taiwan
 * Golang
   * Gin 
 * Python
-  * Flask, FastAPI, Tensorflow/Keras 
+  * Flask, FastAPI, Tensorflow/Keras, PyTorch
 * Verilog
 * DDD, TDD, Object Oriented, Design Pattern, RESTfulAPI, Agile
 * Neo4j, Elasticsearch, MySQL, MongoDB, Redis
