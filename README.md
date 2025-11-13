@@ -2,9 +2,9 @@
 I'm a BackEnd developer from Taiwan
 
 ### About me
-* I enjoy learning design methodology, languages, framewroks to solve real problem in different fileds.
+* I enjoy learning design methodology, languages, frameworks to solve real problems in different fields.
 * Give me a cup of tea, I like to enjoy reading books to gain various knowledge anywhere.
-* Wellcome contact to me.
+* Welcome contact with me.
 
 
 ### Skill & Experience
@@ -16,8 +16,8 @@ I'm a BackEnd developer from Taiwan
   * Flask, FastAPI, Tensorflow/Keras 
 * Verilog
 * DDD, TDD, Object Oriented, Design Pattern, RESTfulAPI, Agile
-* Neo4j, Elasticsearch, MySQL
-* Docker, Kubernetes, AWS/Azure cloud
+* Neo4j, Elasticsearch, MySQL, MongoDB, Redis
+* Docker, Kubernetes,  AWS/Azure/GCP Cloud
 
 <p align="center">
 <a href="https://github.com/clarkwtc/clarkwtc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarkwtc&layout=compact&theme=buefy&hide_border=true" /></a>
