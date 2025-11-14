@@ -15,6 +15,7 @@ I'm a software developer from Taiwan
 * Python
   * Flask, FastAPI, Tensorflow/Keras, PyTorch
 * Verilog
+* Computer Vision, Natural Language Understanding
 * DDD, TDD, Object Oriented, Design Pattern, RESTfulAPI, Agile
 * Neo4j, Elasticsearch, MySQL, MongoDB, Redis
 * Docker, Kubernetes,  AWS/Azure/GCP Cloud
